@@ -1,0 +1,15 @@
+{
+  "name": "audioviz",
+  "version": "1.0.0",
+  "description": "Just a toy to visualize audio waves from dropped mp3 file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/audioviz"
+  }
+}
